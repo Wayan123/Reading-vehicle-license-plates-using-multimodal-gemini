@@ -1,0 +1,10 @@
+google-generativeai
+streamlit
+python-dotenv
+Pillow
+pandas
+requests
+opencv-python
+jsons
+pybase64
+temp

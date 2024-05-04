@@ -8,3 +8,9 @@ Reading vehicle license numbers using computer vision techniques like OCR has it
 3. Run app with "streamlit run app.py"
 
 Happy Machine Learning
+
+# Example:
+![WhatsApp Image 2024-05-04 at 12 37 28_5cac574f](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/4354b38c-71dc-44c4-9f98-907dc4d614c8)
+
+And this the result:
+![WhatsApp Image 2024-05-04 at 12 21 14_43796c2d](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/992a60be-176d-4550-b396-372a4b7273f4)

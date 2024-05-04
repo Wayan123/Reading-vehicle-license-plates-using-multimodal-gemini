@@ -92,6 +92,8 @@ def main():
         st.write("Upload an image or type your message in the textbox.")
         st.write("Then click 'Submit' to see the AI response.")
         st.write("If an =IndexError: list index out of range= error occurs, try submit again or replace the image with a better quality.")
+        st.write("Contoh prompt untuk 1 gambar: Berapa nomor plat kendaraan dan tahun aktifnya jika ada?")
+        st.write("Contoh prompt jika lebih dari 1 gambar: Identifikasikan semua nomor plat kendaraan dan tahun aktif semuanya jika ada?")
 
     user_input_text = st.text_input("Masukan yang ingin anda tanyakan:", "Berapa nomor plat kendaraan dan tahun aktifnya jika ada?")
 

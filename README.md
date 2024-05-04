@@ -1,4 +1,4 @@
-# Reading-vehicle-license-plates-using-multimodal-gemini
+![image](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/d46d05b6-7216-4952-b003-ad9d4adc328d)# Reading-vehicle-license-plates-using-multimodal-gemini
 Reading vehicle license numbers using computer vision techniques like OCR has its own difficulties and challenges. In this repo, I casually created a simple project to help solve this problem using multimodal gemini. In addition to accurately reading license numbers, it also has the ability to match their region codes with a CSV dataset containing region codes and where the license plate is valid.
 
 # Gradio Spaces
@@ -19,3 +19,11 @@ Happy Machine Learning
 # And this the result:
 
 ![WhatsApp Image 2024-05-04 at 12 21 14_43796c2d](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/992a60be-176d-4550-b396-372a4b7273f4)
+
+![WhatsApp Image 2024-05-04 at 16 56 33_35fd7da8](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/964fa2a3-7ece-46b1-b365-1c3369099766) 
+
+![WhatsApp Image 2024-05-04 at 16 25 30_2dea2403](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/9a5552e0-5d57-42d5-a2a0-04e45a796dbb)
+
+![image](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/1f583200-8be6-4f79-a2a8-ca74b650125a) 
+
+![WhatsApp Image 2024-05-04 at 16 24 43_c6bc051e](https://github.com/Wayan123/Reading-vehicle-license-plates-using-multimodal-gemini/assets/17795544/22c6389e-de8c-44d1-b54e-d1db1273785b) 

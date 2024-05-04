@@ -1,2 +1,2 @@
 # Reading-vehicle-license-plates-using-multimodal-gemini
-Reading vehicle license numbers using computer vision techniques like OCR has its own difficulties and challenges. In this repo, I casually created a simple project to help solve this problem using multimodal gemini.
+Reading vehicle license numbers using computer vision techniques like OCR has its own difficulties and challenges. In this repo, I casually created a simple project to help solve this problem using multimodal gemini. In addition to accurately reading license numbers, it also has the ability to match their region codes with a CSV dataset containing region codes and where the license plate is valid.
